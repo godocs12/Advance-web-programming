@@ -1,0 +1,65 @@
+body{
+    background-color: cyan;
+}
+
+.box1 {
+    background-color: darkblue;
+}
+em{
+    color: white
+}
+.box2{
+    background-color: darkcyan;
+    position: absolute;
+  top: 0%;
+  right: 0.1%;
+  font-size: 18px;
+}
+p{
+    color: antiquewhite;
+    font-family: arial;
+}
+.box3{
+    background-color: darkgoldenrod;
+    margin: auto;
+    border-style: dotted;
+}
+.box4{
+    background-color: black;
+    border: dashed thick darkblue;
+}
+qoute{
+    font-variant: small-caps;
+    color: green;
+}
+.box5{
+    text-align: center;
+    font-family: Verdana;
+    font-size: large;
+    font-style: oblique;
+}
+p1{
+    color: green;
+}
+p2{
+    color: yellow;
+}
+p3{
+    color: red;
+}
+.box6{
+    display: inline-block;
+    background-color: white;
+    position: absolute;
+    top: 48%;
+    right: 50%;
+}
+.box7{
+    display: inline-block;
+    background-color: black;
+    top: 48%;
+    left: 50%;
+    position:absolute;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
