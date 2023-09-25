@@ -1,0 +1,18 @@
+body{
+    background-color: cyan;
+}
+h1{
+   color: darkblue;
+}
+h2{
+    text-align: center;
+}
+span{
+    color: hsl(00, 00%, 75.3%);
+}
+span2{
+    color: #ff00ff;
+}
+span3{
+    color: rgb(255, 165, 0);
+}
