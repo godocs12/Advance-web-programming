@@ -1,0 +1,16 @@
+div {
+    height: 50px;
+    width: 100%;
+    border: blue;
+    background-color: blue;
+    color: white;
+  }
+body {
+    background-image: url(https://uploads.dailydot.com/2018/10/olli-the-polite-cat.jpg?q=65&auto=format&w=800&ar=2:1&fit=crop);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+div-1{
+    color: white;
+}
